@@ -1,0 +1,26 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abgespeichert/Virtbase/blob/314355c53cb7ae1060cc458faa85bcf46ce512e0/.github/virtbase-black.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abgespeichert/Virtbase/.github/virtbase-dark.png?raw=true">
+    <img src="https://github.com/abgespeichert/Virtbase/.github/virtbase-dark.png?raw=true" height="128" alt="Virtbase">
+  </picture>
+  <h1 align="center">Virtbase for iOS & macOS</h1>
+</p>
+
+<p align="center">
+  <a aria-label="Discord" href="https://discord.gg/ywrqTubzh5" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/Discord-black.svg?style=for-the-badge&logo=Discord">
+  </a>
+  <a aria-label="YouTube" href="https://www.youtube.com/@virtbase" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/YouTube-black.svg?style=for-the-badge&logo=youtube">
+  </a>
+  <a aria-label="VirtBase" href="https://virtbase.com" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/VirtBase-black.svg?style=for-the-badge&logo=googlechrome">
+  </a>
+</p>
+
+Virtbase is a relatively new hosting provider offering affordable, reliable hardware. This GitHub repository focuses on building a native iOS & macOS application as a companion to the web dashboard, allowing you to manage your servers, firewall, and backups more conveniently.
+
+> [!IMPORTANT]
+> The Virtbase app for iOS & macOS is currently under development and should not be considered stable. Bugs and errors are expected.
+> If you find a bug, have suggestions, or want to propose new features, feel free to contact [@abgespeichert](https://discord.com/users/1417576672823083098) on Discord, or create a new ticket on the official [Virtbase Discord Server](https://discord.gg/ywrqTubzh5).
