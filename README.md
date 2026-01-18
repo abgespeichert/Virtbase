@@ -1,10 +1,13 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abgespeichert/Virtbase/blob/314355c53cb7ae1060cc458faa85bcf46ce512e0/.github/virtbase-black.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abgespeichert/Virtbase/.github/virtbase-dark.png?raw=true">
-    <img src="https://github.com/abgespeichert/Virtbase/.github/virtbase-dark.png?raw=true" height="128" alt="Virtbase">
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/abgespeichert/Virtbase/blob/main/.github/virtbase-black.png?raw=true">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github.com/abgespeichert/Virtbase/blob/main/.github/virtbase-black.png?raw=true">
+    <img src="https://github.com/abgespeichert/Virtbase/blob/main/.github/virtbase-white.png?raw=true"
+         height="128" alt="Virtbase">
   </picture>
-  <h1 align="center">Virtbase for iOS & macOS</h1>
+  <h1 align="center">for iOS & macOS</h1>
 </p>
 
 <p align="center">
