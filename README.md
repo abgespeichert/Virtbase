@@ -18,7 +18,7 @@
     <img alt="" src="https://img.shields.io/badge/YouTube-black.svg?style=for-the-badge&logo=youtube">
   </a>
   <a aria-label="VirtBase" href="https://virtbase.com" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/VirtBase-black.svg?style=for-the-badge&logo=googlechrome">
+    <img alt="" src="https://img.shields.io/badge/VirtBase-black.svg?style=for-the-badge&logo=safari">
   </a>
 </p>
 
