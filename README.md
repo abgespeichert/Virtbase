@@ -22,4 +22,4 @@ Virtbase is a relatively new hosting provider offering affordable, reliable hard
 
 > [!IMPORTANT]
 > The Virtbase app for iOS & macOS is currently under development and should not be considered stable. Bugs and errors are expected.
-> If you find a bug, have suggestions, or want to propose new features, feel free to contact [@abgespeichert](https://discord.com/users/1417576672823083098) on Discord, or create a new ticket on the official [Virtbase Discord Server](https://discord.gg/ywrqTubzh5).
+> If you find a bug, have suggestions, or want to propose new features, feel free to contact [@abgespeichert](https://discord.com/users/1417576672823083098) on Discord, or create a new ticket on the official [Virtbase Discord](https://discord.gg/ywrqTubzh5).
