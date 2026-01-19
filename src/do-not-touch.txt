@@ -1,0 +1,2 @@
+Please dont edit anything in this directory!
+Wait for initialization of the Xcode project :)
