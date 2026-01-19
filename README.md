@@ -5,7 +5,6 @@
 
 <h1 align="center">for iOS & macOS</h1>
 
-
 <p align="center">
   <a aria-label="Discord" href="https://discord.gg/ywrqTubzh5" target="_blank">
     <img alt="" src="https://img.shields.io/badge/Discord-black.svg?style=for-the-badge&logo=Discord">
